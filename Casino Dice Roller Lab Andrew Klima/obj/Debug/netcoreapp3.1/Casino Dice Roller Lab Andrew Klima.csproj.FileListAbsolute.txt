@@ -1,0 +1,13 @@
+C:\Users\Andre\source\repos\Casino Dice Roller Lab Andrew Klima\Casino Dice Roller Lab Andrew Klima\bin\Debug\netcoreapp3.1\Casino Dice Roller Lab Andrew Klima.exe
+C:\Users\Andre\source\repos\Casino Dice Roller Lab Andrew Klima\Casino Dice Roller Lab Andrew Klima\bin\Debug\netcoreapp3.1\Casino Dice Roller Lab Andrew Klima.deps.json
+C:\Users\Andre\source\repos\Casino Dice Roller Lab Andrew Klima\Casino Dice Roller Lab Andrew Klima\bin\Debug\netcoreapp3.1\Casino Dice Roller Lab Andrew Klima.runtimeconfig.json
+C:\Users\Andre\source\repos\Casino Dice Roller Lab Andrew Klima\Casino Dice Roller Lab Andrew Klima\bin\Debug\netcoreapp3.1\Casino Dice Roller Lab Andrew Klima.runtimeconfig.dev.json
+C:\Users\Andre\source\repos\Casino Dice Roller Lab Andrew Klima\Casino Dice Roller Lab Andrew Klima\bin\Debug\netcoreapp3.1\Casino Dice Roller Lab Andrew Klima.dll
+C:\Users\Andre\source\repos\Casino Dice Roller Lab Andrew Klima\Casino Dice Roller Lab Andrew Klima\bin\Debug\netcoreapp3.1\Casino Dice Roller Lab Andrew Klima.pdb
+C:\Users\Andre\source\repos\Casino Dice Roller Lab Andrew Klima\Casino Dice Roller Lab Andrew Klima\obj\Debug\netcoreapp3.1\Casino Dice Roller Lab Andrew Klima.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\Casino Dice Roller Lab Andrew Klima\Casino Dice Roller Lab Andrew Klima\obj\Debug\netcoreapp3.1\Casino Dice Roller Lab Andrew Klima.AssemblyInfoInputs.cache
+C:\Users\Andre\source\repos\Casino Dice Roller Lab Andrew Klima\Casino Dice Roller Lab Andrew Klima\obj\Debug\netcoreapp3.1\Casino Dice Roller Lab Andrew Klima.AssemblyInfo.cs
+C:\Users\Andre\source\repos\Casino Dice Roller Lab Andrew Klima\Casino Dice Roller Lab Andrew Klima\obj\Debug\netcoreapp3.1\Casino Dice Roller Lab Andrew Klima.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\Casino Dice Roller Lab Andrew Klima\Casino Dice Roller Lab Andrew Klima\obj\Debug\netcoreapp3.1\Casino Dice Roller Lab Andrew Klima.dll
+C:\Users\Andre\source\repos\Casino Dice Roller Lab Andrew Klima\Casino Dice Roller Lab Andrew Klima\obj\Debug\netcoreapp3.1\Casino Dice Roller Lab Andrew Klima.pdb
+C:\Users\Andre\source\repos\Casino Dice Roller Lab Andrew Klima\Casino Dice Roller Lab Andrew Klima\obj\Debug\netcoreapp3.1\Casino Dice Roller Lab Andrew Klima.genruntimeconfig.cache
